@@ -6,8 +6,7 @@ Table of Contents:
 
 •	Technologies Used
 •	 Getting Started 
-•	Usage 
-•	Contributing 
+•	Usage  
 •	License 
 
 Technologies Used
